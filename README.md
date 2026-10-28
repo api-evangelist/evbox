@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-EVBox is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://evbox.com/
+EVBox provides smart electric vehicle (EV) charging solutions, including hardware chargers and cloud‑based software platforms for managing charging stations, energy usage, and fleet operations. The company serves businesses, municipalities, and consumers worldwide, offering scalable, interoperable charging infrastructure and services that integrate with renewable energy sources and grid management.
+
+**Areas:** Company · EVCharging · Hardware · Software · Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://evbox.com/)
+- [Documentation](https://evbox.com/en/)
+- [Support](https://evbox.com/en/support/)
+- [Blog](https://evbox.com/en/blog/)
+- [Privacy policy](https://evbox.com/en/privacy-policy/)
+- [GitHub](https://github.com/evbox)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/evbox/](https://apis.io/providers/evbox/).
